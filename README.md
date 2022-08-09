@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iKa1ns
-- 👀 I’m interested in Py/Lua
-- 🌱 I’m currently learning Py
+- 👀 I’m interested in /.../
+- 🌱 I’m currently learning /.../
 - 💞️ I’m looking to collaborate on /.../
 - 📫 How to reach me /.../
 
